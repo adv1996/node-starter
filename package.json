@@ -1,0 +1,25 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "A template for creating any basic node app with api for testing",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adv1996/node-starter.git"
+  },
+  "author": "Advaith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adv1996/node-starter/issues"
+  },
+  "homepage": "https://github.com/adv1996/node-starter#readme"
+}
